@@ -1,0 +1,9 @@
+---
+profiles:
+  default:
+    network: Testnet
+    private_key: "0x1806f388eb37b5aa6d6ffff21a857494d11aa38c06ddc3cff712ce69a02b59d2"
+    public_key: "0x99343a8593045d7ca40c90c868bdb4cb4ef9023f0407d24d4355a13cf22ab586"
+    account: 2183e1e73c81b2246c1e2ad7c8b899719a76e08cae4f4df843b882a33b550f7f
+    rest_url: "https://fullnode.testnet.aptoslabs.com"
+    faucet_url: "https://faucet.testnet.aptoslabs.com"
