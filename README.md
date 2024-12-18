@@ -4,6 +4,10 @@
 
 This is an **Aptos-based NFT Marketplace dApp**, where users can list, buy, sell, and transfer NFTs. The application leverages the Aptos blockchain for transactions and smart contract interactions. It allows for various advanced features, including filtering and sorting NFTs, and tipping for creators.
 
+## Demo
+
+[Live Demo](https://aptos-nft-marketplace-blush.vercel.app/)
+
 ## Features
 
 ### 1. **Advanced Filtering and Sorting**
